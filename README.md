@@ -1,6 +1,9 @@
-Js Hello World Demo
-===================
+JavaScript Chrome Import Demo
+==============================
 
-Open `index.html` in your browser.
+Chrome自身支持`import(url)`语句，可以导入一个指定的js文件，甚至支持`esm`格式（即使用了import/export）语法。
 
-You will see "Hello, JS!" on the page.
+```
+npm install
+npm run demo
+```
